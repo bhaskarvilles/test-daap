@@ -9,3 +9,14 @@ Dependencies :
 
 - Truffle v5.4.22 / latest
 - Solidity v0.8.10 / latest
+- node.js
+
+While Running ganache Appimage
+
+## Install Http server : 
+ - 'npm install http-server'
+
+## Start Http Server :
+ - 'npx http-server'
+
+
