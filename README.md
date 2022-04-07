@@ -3,8 +3,7 @@
 
 See a decentralized website in action! Using http-server and Ethereum local blockchain. Learn how to run a dapp and interact with it! Perform transactions on a live smart contract  via a website. 
 
-© bhaskarvilles &
-[Bhaskar Agency] (https://bhaskar.agency)
+© bhaskarvilles & (https://bhaskar.agency)
 
 Dependencies :
 
