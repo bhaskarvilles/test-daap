@@ -14,9 +14,9 @@ Dependencies :
 While Running ganache Appimage
 
 ## Install Http server : 
- - ’npm install http-server’
+ - ’’’npm install http-server’’’
 
 ## Start Http Server :
- - ’npx http-server’
+ - ’’'npx http-server’’’
 
 
